@@ -1,2 +1,13 @@
-# Machine Learning algoirithms maths
-In this repository I have tried to implements the "Mathematics" behind the Machine Learning algorithms.
+# Machine Learning algorithms maths
+In this repository I have tried to implement the "Mathematics" behind the Machine Learning algorithms.
+
+
+
+
+
+* Gradient Descent
+* Logistic Regression
+* Random Forest
+* AdaBoost
+* Gradient Boosting
+* KMeans
