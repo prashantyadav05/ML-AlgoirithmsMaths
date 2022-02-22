@@ -1,4 +1,4 @@
-# Machine Learning algorithms maths
+# Machine Learning algorithms "Mathematics"
 In this repository I have tried to implement the "Mathematics" behind the Machine Learning "Algorithms" & tried to code it from scratch.
 
 
