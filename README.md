@@ -10,4 +10,5 @@ In this repository I have tried to implement the "Mathematics" behind the Machin
 * Random Forest
 * AdaBoost
 * Gradient Boosting
+* KNeighbour Classifier
 * KMeans
