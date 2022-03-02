@@ -5,7 +5,10 @@ In this repository I have tried to implement the "Mathematics" behind the Machin
 
 
 
-* Gradient Descent
+* Gradient Descent: 
+    * Batch Gradient Descent: Number of rows = one update, slow, Convex data
+    * Stochastic Gradient Desecnt: Number of rows = Number of updates, Fast, works for Non-Convex data
+    * Mini-Batch Grafient Descent: Decide number of in a single batch.
 * Logistic Regression
 * Random Forest
 * AdaBoost
